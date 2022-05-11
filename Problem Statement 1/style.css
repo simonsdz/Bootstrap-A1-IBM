@@ -1,0 +1,19 @@
+.head {
+  margin: 1.5rem;
+  font-size: 40px;
+  width: fit-content;
+}
+.head span {
+  color: red;
+}
+
+.container {
+  margin: 1.5rem;
+}
+.container h4 {
+  font-size: 26px;
+}
+.container p {
+  font-size: 30px;
+  width: fit-content;
+}
