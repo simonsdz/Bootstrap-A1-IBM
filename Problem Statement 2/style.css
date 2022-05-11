@@ -1,0 +1,16 @@
+.head {
+  margin: 2rem;
+  padding: 1rem;
+}
+.head h2 span {
+  color: #ff0000;
+}
+
+.container {
+  border: 1px solid #713737;
+  padding: 2rem;
+  background-color: #577f88;
+  color: #ffffff;
+}
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,17 @@
+.head {
+      margin: $base-margin;
+      padding: $base-padding;
+      h2 {
+            span {
+                  color: $basic-span-color;
+            }
+      }
+}
+
+.container {
+      border: 1px solid $border-color;
+      padding: $base-padding * 2;
+      background-color: $bg-color;
+      color: $base-font-color;
+      
+}
