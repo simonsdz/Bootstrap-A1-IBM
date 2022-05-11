@@ -1,0 +1,19 @@
+.head {
+      margin:  $common-margin;
+      font-size: $base-font-size * 2;
+      width: $basic-div-width;
+      span {
+            color: $span-basic-color;
+      }
+}
+
+.container {
+      margin: $common-margin;
+      h4 {
+            font-size: $base-font-size * 1.3;
+      }
+      p {
+            font-size: $base-font-size * 1.5;
+            width: $basic-div-width;
+      }
+}
